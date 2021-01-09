@@ -4,9 +4,9 @@
 
     ::eml::srider33@gmail.com
 
-    ::phn::8582639712
+    ::phn::888442355
 
-    ::adr::655 ENTERPRISE DR APT 4`tRohnert Park`tCA`t94928-2437
+    ::adr::385 W 54th St`tNew York`tNY`t10001
 
     ::ttys::talk to you soon
 
