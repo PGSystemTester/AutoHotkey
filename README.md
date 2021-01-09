@@ -21,17 +21,7 @@ This is just a place I'm dropping some basic scripts as I'm learning to use Auto
 
 **&** combined two keys for action.
 
-### Hot Strings
-    ::tw::tomorrow
-    ::yy::yesterday
-    ::adr::1234 W 34th St.`tNew York`tNY`t10001
-    ::ttys::talk to you soon
-    ::omw::on my way
-    ::py::probably
-    ::wd::would
-    ::dy::definitely
-    ::sg::sounds good
-    
+   
 
 
 ### Comments
