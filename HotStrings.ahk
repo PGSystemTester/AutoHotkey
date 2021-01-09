@@ -2,7 +2,7 @@
 
     ::tw::tomorrow
 
-    ::eml::srider33@gmail.com
+    ::eml::email@gmail.com
 
     ::phn::888442355
 
