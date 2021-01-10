@@ -1,12 +1,14 @@
     ::yy::yesterday
 
     ::tw::tomorrow
-
-    ::eml::email@gmail.com
-
-    ::phn::888442355
-
-    ::adr::385 W 54th St`tNew York`tNY`t10001
+    
+    ::ty::today
+    
+    ::mg::morning
+    
+    ::evening::evening
+    
+    ::sg::something
 
     ::ttys::talk to you soon
 
@@ -28,3 +30,6 @@
     
     ::bc::because
    
+    ::phn::888442355
+
+    ::adr::385 W 54th St`tNew York`tNY`t10001
