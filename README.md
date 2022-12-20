@@ -1,11 +1,12 @@
 ## AutoHotkey
-This is just a place I'm dropping some basic scripts as I'm learning to use AutoHotkey
+This is just a place I'm dropping some basic scripts as I'm learning to use AutoHotkey. 
 
 ## Notes During My Learning Process
 
-[Massive document with all kinds of examples.](https://daviddeley.com/autohotkey/xprxmp/autohotkey_expression_examples.htm)
+- [Massive document with all kinds of examples](https://daviddeley.com/autohotkey/xprxmp/autohotkey_expression_examples.htm).
+- [Documentation link from website](https://www.autohotkey.com/docs/Language.htm).
+- [Cheat sheet](https://cheatography.com/pintaildriver/cheat-sheets/custom-ahk-commands/).
 
-[Documentation link from website.] (https://www.autohotkey.com/docs/Language.htm)
 
 ## Cheat Sheet Sample Codes
 
@@ -21,7 +22,6 @@ This is just a place I'm dropping some basic scripts as I'm learning to use Auto
 
 **&** combined two keys for action.
 
-   
 
 
 ### Comments
@@ -37,6 +37,4 @@ This is just a place I'm dropping some basic scripts as I'm learning to use Auto
 
     "this is a text"
     "Text combined with variables needs a period" . myVariable
-    
-    
     
